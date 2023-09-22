@@ -1,7 +1,7 @@
 {
   "name": "react1",
   "version": "0.1.0",
-  "homepage": "https://AnisBacha.github.io/react_deploy_gh",
+  "homepage": "https://AnisBacha.github.io/react-deploy-netlify",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
